@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blobby_assets.png">
+<SubTexture name="Blobby idle0000" x="0" y="0" width="411" height="398" />
+<SubTexture name="Blobby idle0001" x="0" y="408" width="411" height="398" />
+<SubTexture name="Blobby idle0002" x="0" y="816" width="411" height="398" />
+<SubTexture name="Blobby idle0003" x="0" y="1224" width="411" height="398" />
+<SubTexture name="Blobby idle0004" x="0" y="1632" width="411" height="398" />
+<SubTexture name="Blobby idle0005" x="0" y="2040" width="411" height="398" />
+<SubTexture name="Blobby idle0006" x="0" y="2458" width="411" height="398" />
+<SubTexture name="Blobby LEFT0000" x="421" y="0" width="411" height="398" />
+<SubTexture name="Blobby RIGHT0000" x="843" y="0" width="411" height="398" />
+<SubTexture name="Blobby UP0000" x="1264" y="0" width="411" height="398" />
+<SubTexture name="Blobby DOWN0000" x="1694" y="0" width="411" height="398" />
+<SubTexture name="firstDeath0000" x="421" y="2866" width="411" height="398" />
+<SubTexture name="deathLoop0000" x="421" y="2866" width="411" height="398" />
+<SubTexture name="deathConfirm0000" x="0" y="2866" width="411" height="398" />
+</TextureAtlas>
